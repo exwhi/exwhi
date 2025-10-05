@@ -1,14 +1,32 @@
-<h1 align=“center”>嗨👋，我是 Raxzy</h1><
-h3 align=“center”>一位来自中国的充满激情的前端开发人员</h3>
+# Hi there, I'm [Your Name] 👋
 
-- 💬 向我询问有关 **SERVER**
+Welcome to my GitHub profile! I'm a passionate developer with a focus on web technologies. Here's a bit about me:
 
-- 📫 如何联系我 **raxzy785@gmail.com**
+## About Me
+- **Name**: [Your Name]
+- **Location**: [Your City, Country]
+- **Occupation**: [Your Job Title, e.g., Full-Stack Developer]
+- **Interests**: Coding, building web apps, open-source contributions, and learning new tech stacks.
+- **Bio**: I'm enthusiastic about creating efficient and user-friendly applications. With experience in front-end and back-end development, I enjoy turning ideas into reality.
 
-<h3 align=“left”>与我联系：</h3>
-<p align=“left”>
-</p>
+## Skills
+Here are some of the technologies I'm proficient in:
 
-<h3 align=“left”>语言和工具：</h3>
-<p align=“left”> <a href=“https://www.w3schools.com/css/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg” alt=“css3” width=“40” height=“40”/> </a> <a href=“https://www.w3.org/html/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg” alt=“html5” width=“40” height=“40”/> </a> <a href=“https://www.php.net” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg” alt=“php” width=“40” height=“40”/> </a> <a href=“https://www.python.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40”/> </a> <a href=“https://www.typescriptlang.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg” alt=“typescript” width=“40” height=“40”/> </a> </p>
+![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-Expert-blue?style=for-the-badge&logo=php&logoColor=white)
 
+Other skills include: CSS, MySQL, Git, and more.
+
+## Projects
+- **[Project 1 Name]**: A brief description. [Link to Repo]
+- **[Project 2 Name]**: A brief description. [Link to Repo]
+
+Feel free to check out my repositories!
+
+## Contact Me
+- 📫 Email: [your.email@example.com]
+- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 🌐 Website: [Your Personal Website]
+
+Thanks for visiting! Let's connect and collaborate. 🚀
