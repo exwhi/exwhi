@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Razxy] 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on web technologies. Here's a bit about me:
 
 ## About Me
-- **Name**: [Your Name]
-- **Location**: [Your City, Country]
-- **Occupation**: [Your Job Title, e.g., Full-Stack Developer]
+- **Name**: [Raxzy]
+- **Location**: [China]
+<!-- **Occupation**: [Your Job Title, e.g., Full-Stack Developer]-->
 - **Interests**: Coding, building web apps, open-source contributions, and learning new tech stacks.
 - **Bio**: I'm enthusiastic about creating efficient and user-friendly applications. With experience in front-end and back-end development, I enjoy turning ideas into reality.
 
@@ -18,15 +18,15 @@ Here are some of the technologies I'm proficient in:
 
 Other skills include: CSS, MySQL, Git, and more.
 
-## Projects
+<!--## Projects
 - **[Project 1 Name]**: A brief description. [Link to Repo]
 - **[Project 2 Name]**: A brief description. [Link to Repo]
 
-Feel free to check out my repositories!
+Feel free to check out my repositories!-->
 
 ## Contact Me
-- 📫 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Website: [Your Personal Website]
+- 📫 Email: [raxzy785@gmail.com]
+<!-- 🔗 LinkedIn: [Your LinkedIn Profile]-->
+<!-- 🌐 Website: [Your Personal Website]-->
 
 Thanks for visiting! Let's connect and collaborate. 🚀
